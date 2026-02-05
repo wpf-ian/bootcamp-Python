@@ -1,0 +1,16 @@
+# Python basics
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+bootcamp-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
